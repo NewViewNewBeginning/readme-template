@@ -2,7 +2,7 @@ ___
 # SEKCJA NOTATEK - usuń po napisaniu README :)
 
 ###   funkcjonalności programu 
--
+- 3 wersje strony odpowiednie dla mobile tablet i desktop
     
 ### problemy i ich rozwiązania + fragmenty kodu
 -
@@ -13,10 +13,10 @@ większy fragment kodu
     
     
 ### materiały, które pomogły Ci uzyskać dany efekt
--
+- mdm and w3shool
     
 ### reużywalne części projektu
--
+- background pictures and footer which are same in all 3 versions
     
 ### narzędzia, frameworki, biblioteki
 -
@@ -25,14 +25,14 @@ większy fragment kodu
 -
     
 ###   wtyczki – rozszerzenia do przeglądarki czy do IDE
--
+- 
 
     
 ### inspiracje
--
+- devmentor.pl 
     
 ### wnioski, pomysły na rozwój projektu
--
+- better organizaton and more comment descriptions
 
 
 ## *`Koniec sekcji notatek. Poniżej znajdziesz szablon właściwego README.`*
